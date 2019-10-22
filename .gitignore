@@ -1,0 +1,5 @@
+.terraform
+ansible/keys/*
+!ansible/keys/.gitkeep
+ansible/hosts.ini
+terraform.tfstate*
